@@ -1,6 +1,6 @@
 # Markdown Viewer Application
 
-This application allows users to convert local Markdown files into HTML format. It extracts metadata such as title, description, and author from the Markdown file and uses them in the HTML page's meta tags, displaying only the Markdown content in the visual part of the page. Additionally, a footer section is included at the bottom of the page.
+This application allows users to convert local Markdown files into HTML format. It extracts metadata such as title, description, and author from the Markdown file and uses them in the HTML page's meta tags, displaying only the Markdown content in the visual part of the page. If you wish, you can easily view your Markdown file as HTML in a browser using markdown_viewer.exe.
 
 ## Features
 
